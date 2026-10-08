@@ -25,7 +25,7 @@ L'Audi R8 és un esportiu de bones prestacions amb un motor 2.0 TFSI.
 
 ### Nissan 350z
 
-![Nissan 350z](nissan-350z.jpg)
+![Nissan 350Z](img/nissan-350z.jpg)
 
 El nissan 350z és un esportiu de bones prestacions de 300cv amb un v6.
 

@@ -5,15 +5,15 @@ site_author: Laia i Joan
 nav:
   - Inici: index.md
   - Vehicles:
-      - Resum: vehicles/index.md
+      - Tots els vehicles: vehicles/index.md
       - Vehicle 1: vehicles/vehicle_0001.md
       - Vehicle 2: vehicles/vehicle_0002.md
   - Compra de Vehicle:
-      - Resum: compra_vehicle/index.md
+      - Informació general: compra_vehicle/index.md
       - Procés de Compra: compra_vehicle/proces_compra.md
       - Requisits: compra_vehicle/requisits.md
   - Venda de Vehicle:
-      - Resum: venda_vehicle/index.md
+      - Informació general: venda_vehicle/index.md
       - Com Vendre: venda_vehicle/com_vendre.md
       - Tasació: venda_vehicle/tasacio.md
   - Blog:

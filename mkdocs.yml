@@ -1,0 +1,26 @@
+site_name: Sobre rodes
+site_description: Concessioari especialitzat en la compravenda de vehicles nous i d'ocació.
+site_author: Laia i Joan
+
+theme:
+ name: superhero
+
+nav:
+  - Inici: index.md
+  - Vehicles:
+      - Tots els vehicles: vehicles/index.md
+      - Vehicle 1: vehicles/vehicle_0001.md
+      - Vehicle 2: vehicles/vehicle_0002.md
+  - Compra de Vehicle:
+      - Informació general: compra_vehicle/index.md
+      - Procés de Compra: compra_vehicle/proces_compra.md
+      - Requisits: compra_vehicle/requisits.md
+  - Venda de Vehicle:
+      - Informació general: venda_vehicle/index.md
+      - Com Vendre: venda_vehicle/com_vendre.md
+      - Tasació: venda_vehicle/tasacio.md
+  - Blog:
+      - Tots els Articles: blog/index.md
+      - Article 1: blog/blog_0001.md
+      - Article 2: blog/blog_0002.md
+      - Article 3: blog/blog_0003.md

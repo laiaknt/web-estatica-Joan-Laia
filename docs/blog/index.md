@@ -1,6 +1,6 @@
-# El Blog del Motor a Sobra Rodes
+# El Blog del Motor a Sobre Rodes
 
-Benvingut al blog de **Sobra Rodes**. Aquí trobaràs consells, novetats del sector automobilístic, guies pràctiques de manteniment i informació clau per prendre la millor decisió abans de comprar o vendre el teu vehicle.
+Benvingut al blog de **Sobre Rodes**. Aquí trobaràs consells, novetats del sector automobilístic, guies pràctiques de manteniment i informació clau per prendre la millor decisió abans de comprar o vendre el teu vehicle.
 
 ![blog](img/blog.jpg)
 

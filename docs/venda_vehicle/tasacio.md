@@ -1,6 +1,6 @@
 # Sol·licita la Tasació del teu Vehicle
 
-Omple el següent formulari amb les dades del teu cotxe i et respondrem des de **Sobra Rodes** amb una valoració estimada en menys de 24 hores laborals.
+Omple el següent formulari amb les dades del teu cotxe i et respondrem des de **Sobre Rodes** amb una valoració estimada en menys de 24 hores laborals.
 
 ---
 

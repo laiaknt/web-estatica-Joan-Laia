@@ -1,6 +1,6 @@
-# Compra el teu Vehicle a Sobra Rodes
+# Compra el teu Vehicle a Sobre Rodes
 
-Troba el cotxe ideal per a tu a **Sobra Rodes**. Comptem amb un ampli catàleg de _vehicles d'ocasió, seminous i de quilòmetre zero totalment revisats_ i amb _garantia completa_.
+Troba el cotxe ideal per a tu a **Sobre Rodes**. Comptem amb un ampli catàleg de _vehicles d'ocasió, seminous i de quilòmetre zero totalment revisats_ i amb _garantia completa_.
 
 ---
 

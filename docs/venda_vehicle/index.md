@@ -1,6 +1,6 @@
 # Venda del teu Vehicle
 
-Benvingut al servei de venda de vehicles de **Sobra Rodes**. Et facilitem el _procés per vendre el teu cotxe de manera ràpida, transparent_ i amb la _millor valoració del mercat_.
+Benvingut al servei de venda de vehicles de **Sobre Rodes**. Et facilitem el _procés per vendre el teu cotxe de manera ràpida, transparent_ i amb la _millor valoració del mercat_.
 
 ---
 

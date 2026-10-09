@@ -1,8 +1,6 @@
-#  Sobrerodes
+## Benvingut a Sobre rodes
 
-## Benvingut a Sobrerodes
-
-Benvingut a **Sobrerodes**, una web dedicada al món dels automòbils.
+Benvingut a **Sobre rodes**, una web dedicada al món dels automòbils.
 
 En aquesta pàgina podràs trobar informació sobre diferents models de cotxes,
 les seves característiques, motor, potència, acceleració i velocitat màxima.

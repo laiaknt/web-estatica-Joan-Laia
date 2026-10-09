@@ -1,6 +1,6 @@
 # Procés de Compra
 
-A **Sobra Rodes** volem que comprar el teu proper cotxe sigui una experiència fàcil, transparent i sense sorpreses.
+A **Sobre Rodes** volem que comprar el teu proper cotxe sigui una experiència fàcil, transparent i sense sorpreses.
 
 ---
 

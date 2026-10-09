@@ -1,6 +1,6 @@
 # Benvinguts a Sobra rodes
 
-Benvinguts a **Sobra rodes**, un concessionari especialitzat en la **compra i venda de vehicles**. En aquesta web podràs consultar els vehicles disponibles i obtenir informació sobre els nostres serveis.
+Un concessionari especialitzat en la **compra i venda de vehicles**. En aquesta web podràs consultar els vehicles disponibles i obtenir informació sobre els nostres serveis.
 
 ## Objectiu de la Web
 

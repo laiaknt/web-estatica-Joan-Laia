@@ -1,6 +1,6 @@
 # Com Vendre el teu Cotxe
 
-Vendre el teu vehicle a **Sobra Rodes** és un procés simple de 4 passos creat per estalviar-te temps i preocupacions.
+Vendre el teu vehicle a **Sobre Rodes** és un procés simple de 4 passos creat per estalviar-te temps i preocupacions.
 
 ---
 

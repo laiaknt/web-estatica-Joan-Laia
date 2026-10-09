@@ -1,6 +1,6 @@
 # Requisits i Documentació
 
-Per poder tramitar la compra i la gestió del canvi de nom del teu vehicle a **Sobra Rodes**, necessitaràs aportar la documentació que t'indiquem a continuació.
+Per poder tramitar la compra i la gestió del canvi de nom del teu vehicle a **Sobre Rodes**, necessitaràs aportar la documentació que t'indiquem a continuació.
 
 ---
 

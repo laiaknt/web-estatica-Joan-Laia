@@ -1,10 +1,11 @@
 
-site_name: Sobre rodes
+site_name: '<img src="img/logo_sobrerodes.png" alt="Logo" style="height:32px; margin-right:10px; vertical-align:middle;"> Sobre rodes'
 site_description: Concessioari especialitzat en la compravenda de vehicles nous i d'ocació.
 site_author: Laia i Joan
 
 theme:
- name: superhero
+  name: superhero
+  logo: img/logo_sobrerodes.png
 
 nav:
   - Inici: index.md

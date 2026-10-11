@@ -2,7 +2,7 @@
 
 Benvinguts a **Sobre rodes**, un concessionari especialitzat en la **compra i venda de vehicles**. En aquesta web podràs consultar els vehicles disponibles i obtenir informació sobre els nostres serveis.
 
-<img src="img/logo_sobrerodes.png" alt="Logo Sobre Rodes" style="background-color: white; padding: 15px; border-radius: 10px; max-width: 300px; display: block; margin: 20px auto;">
+<img src="img/favicon.ico" alt="Logo Sobre Rodes" style="background-color: white; padding: 15px; border-radius: 10px; max-width: 300px; display: block; margin: 20px auto;">
 
 ## Objectiu de la Web
 

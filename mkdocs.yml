@@ -4,6 +4,10 @@ site_author: Laia i Joan
 
 theme:
   name: superhero
+#  favicon: img/logo_sobrerodes.png
+
+extra:
+  favicon: img/logo_sobrerodes.png
 
 nav:
   - Inici: index.md
